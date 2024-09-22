@@ -1,0 +1,1 @@
+# marekt_segmantation_mcdonalds_case_study
