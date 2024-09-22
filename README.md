@@ -1,1 +1,2 @@
-# marekt_segmantation_mcdonalds_case_study
+#Fast Food Market Segmentation Analysis
+This repository contains the full implementation of the fast food case study, analyzing customer perceptions of fast food products through market segmentation. The analysis is performed using a dataset from a fast food brand (McDonald's), containing customer responses to various food attributes such as "yummy," "healthy," "expensive," and more. This repository demonstrates how to segment customers into meaningful groups based on these attributes using Principal Component Analysis (PCA) and K-Means Clustering.
